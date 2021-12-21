@@ -104,3 +104,4 @@ jobs:
         run: |
           docker push --all-tags ${{ github.event.repository.full_name }}
           docker push --all-tags ghcr.io/${{ github.event.repository.full_name }}
+# 
