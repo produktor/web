@@ -58,9 +58,9 @@
 </p>
 
 <h2></h2>
-<p>&nbsp;</p>
+<p> </p>
 <p id="premium-sponsors" align="center"><strong>Special thanks</strong> to our <strong>premium sponsors</strong>:</p>
-<p>&nbsp;</p>
+<p> </p>
 <p align="center">
   <a href="https://cirrus-ci.org/" target=_blank><img
     src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-cirrus-ci.png" height="65"
@@ -84,38 +84,31 @@
     src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/sponsors/sponsor-prefect.png" height="65"
   /></a>
 </p>
-<p>&nbsp;</p>
+<p> </p>
 
 ## Features
 
 * **It's just Markdown ...** — write your technical documentation in Markdown –
   no need to know HTML, JavaScript or CSS. Material for MkDocs will do the heavy
   lifting and create a beautiful and functional website.
-
 * **... but there's more** — integrates natively with Python Markdown
   Extensions, adding callouts, tabbed content containers, mathematical formulas,
   critic markup, task lists, and [more than 10k icons and emojis][icons-emojis].
-
 * **Responsive by design** — built from the ground up to work on all kinds of
   devices – from mobile phones to widescreens. The underlying fluid layout will
   always adapt perfectly to the available screen space.
-
 * **Static, but searchable** — almost magically, your technical documentation
   website will be searchable without any further ado. Material for MkDocs comes
   with built-in search – no server needed.
-
 * **Many configuration options** — change the color palette, font families,
   language, icons, favicon and logo. Add a source repository link, links to your
   social profiles, Google Analytics and Disqus - all with a few lines of config.
-
 * **Truly international** — thanks to many contributors, Material for MkDocs
   includes translations for more than 40 languages and offers full native RTL
   (right-to-left) support.
-
 * **Accessible** — Material for MkDocs provides extensible keyboard navigation
   and semantic markup including role attributes and landmarks. Furthermore, the
   layout respects the user's default font size.
-
 * **Modern architecture** — Material for MkDocs's underlying codebase is built
   on top of TypeScript, RxJS, and SCSS, bringing excellent possibilities for
   theme extension and customization.
@@ -126,23 +119,22 @@ that new features are first exclusively released to sponsors as part of
 [how to become a sponsor] to get access to Insiders, and
 [what's in for you][available features]!
 
-  [icons-emojis]: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
-  [Insiders]: https://squidfunk.github.io/mkdocs-material/insiders/#what-is-insiders
-  [what sponsorships achieve]: https://squidfunk.github.io/mkdocs-material/insiders/#what-sponsorships-achieve
-  [how to become a sponsor]: https://squidfunk.github.io/mkdocs-material/insiders/#how-to-become-a-sponsor
-  [available features]: https://squidfunk.github.io/mkdocs-material/insiders/#available-features
-
+[icons-emojis]: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+[Insiders]: https://squidfunk.github.io/mkdocs-material/insiders/#what-is-insiders
+[what sponsorships achieve]: https://squidfunk.github.io/mkdocs-material/insiders/#what-sponsorships-achieve
+[how to become a sponsor]: https://squidfunk.github.io/mkdocs-material/insiders/#how-to-become-a-sponsor
+[available features]: https://squidfunk.github.io/mkdocs-material/insiders/#available-features
 ## Quick start
 
 Material for MkDocs can be installed with `pip`:
 
-``` sh
+```sh
 pip install mkdocs-material
 ```
 
 Add the following line to `mkdocs.yml`:
 
-``` yaml
+```yaml
 theme:
   name: material
 ```
@@ -150,8 +142,7 @@ theme:
 For other installation methods, configuration options, and a demo, visit
 [squidfunk.github.io/mkdocs-material][Material for MkDocs]
 
-  [Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
-
+[Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
 ## Trusted by ...
 
 ### ... leading organizations
