@@ -150,10 +150,10 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Intro: index.md
+  - Home: index.md
   - Project:
     - Description: project/description.md
-    - Main-Objectives: project/mission.md
+    - Objectives: project/mission.md
     - Vision: project/vision.md
     - Business-Plan: project/business-plan.md
     - Demo-Application: project/demo.md
