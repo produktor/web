@@ -155,8 +155,8 @@ nav:
     - Description: project/description.md
     - Objectives: project/mission.md
     - Vision: project/vision.md
-    - Business-Plan: project/business-plan.md
-    - Demo-Application: project/demo.md
+    - Plan: project/business-plan.md
+    - Demo: project/demo.md
     - Advertising: project/advertising.md
   - Team: project/team.md
   - News: project/changelog.md
