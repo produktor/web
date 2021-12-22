@@ -24,7 +24,7 @@ As of the end of 2021, there are more than 11,000 different cryptocurrencies in 
 
 ---
 
-## Cryptocurrency markets
+## Cryptocurrency markets today
 
 ![](assets/TotalCryptoMarketCap%20chart.png)
 
