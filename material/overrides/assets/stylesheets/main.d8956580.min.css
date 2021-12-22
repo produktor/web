@@ -128,7 +128,7 @@
       no-repeat bottom,
       linear-gradient(to bottom,
       var(--md-primary-fg-color),
-      var(--md-code-hl-pecial-color) 99%,
+      var(--md-primary-bg-color) 99%,
       var(--md-default-bg-color) 99%);
   padding-top: 1rem
 }
@@ -198,7 +198,7 @@
 .mdx-hero .md-button--primary {
   background-color: var(--md-primary-bg-color);
   border-color: var(--md-primary-bg-color);
-  color: #894da8
+  color: var(--md-accent-fg-color);
 }
 
 .md-typeset .mdx-iconsearch {
