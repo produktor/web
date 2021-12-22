@@ -67,7 +67,7 @@ theme:
   palette:
     - scheme: default
       primary: lime
-      accent: light-blue
+      accent: yellow
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
