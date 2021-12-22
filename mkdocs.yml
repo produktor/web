@@ -152,7 +152,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Project:
-    - Description: project/description.md
+    - About: project/description.md
     - Objectives: project/mission.md
     - Vision: project/vision.md
     - Plan: project/business-plan.md

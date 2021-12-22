@@ -2,7 +2,7 @@
 template: overrides/main.html 
 icon: material/image-size-select-small
 ---
-# Description
+# About
 
 [Produktor.io](https://produktor.io) is a mobile application based on a proprietary mapping service. The app is designed
 to facilitate C2C communication for users by enabling them to either directly exchange goods/services, or to do so using
