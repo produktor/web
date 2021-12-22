@@ -20,14 +20,14 @@
 
 # Project information
 site_name: PRODUKTOR
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://produktor.github.io/web/
 site_author: Andriy Oblivantsev
 site_description: >-
   Be prepared for new ways to exchange each item.
 
 # Repository
 repo_name: produktor/web
-repo_url: https://produktor.github.io/web/
+repo_url: https://github.com/produktor/web/
 edit_uri: ""
 
 # Copyright
