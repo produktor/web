@@ -416,17 +416,18 @@ Below is the structure of the initial investments (seed investments) required to
 
 The total initial investment for 2022 will be **766,000 USD**. The approximate distribution of investment costs is shown below:
 
-![img_3.png](assets/diagrams/img_3.png)
+<iframe width="100%" height="405" frameborder="0" scrolling="no" src="//plotly.com/~eslider/3.embed"></iframe>
+
 
 The total amount of investment: ***736,000 USD***
 
 
 ### Investments for Q1/22:
 
-- Amount: **134,500 USD**
-- Distribution:
 
-![img_4.png](assets/diagrams/img_4.png)
+<iframe  width="100%" height="405" frameborder="0" scrolling="no" src="//plotly.com/~eslider/5.embed"></iframe>
+
+> - Amount: **134,500 USD**
 
 
 ### Investments for Q2/22:
