@@ -18,7 +18,7 @@ In 1997, Adam Beck proposes a concept he developed [Hashcash](https://ru.wikiped
 
 In 2009, someone named Satoshi Nakamoto publishes the Bitcoin Whitepaper, in which he describes the principles of a decentralized peer-to-peer payment system. From this moment, we can start counting the full history of cryptocurrencies.
 
-As of the end of 2021, there are more than 11,000 different cryptocurrencies in the world. The capitalization of various cryptocurrencies on the market varies from millions to hundreds of billions of dollars, the number of market users and the number of transactions in the networks is steadily growing.
+As of the end of 2022, there are more than 11,000 different cryptocurrencies in the world. The capitalization of various cryptocurrencies on the market varies from millions to hundreds of billions of dollars, the number of market users and the number of transactions in the networks is steadily growing.
 
 
 
@@ -291,7 +291,7 @@ In the extended functionality, which the user is supposed to have access to, int
 
 ## Roadmap
 
-### Q1/2021
+### Q1/2022
 
 - launch of MWP based on TERA on the local market.
 - testing.
@@ -301,13 +301,13 @@ In the extended functionality, which the user is supposed to have access to, int
 - involvement of the primary user level.
 - preparation of the document base/CI.
 
-### Q2/2021
+### Q2/2022
 
 - launch of an active marketing campaign.
 - Attracting investment for the development and tokenization of the project.
 - Getting developers involved in the team.
 
-### Q3/2021
+### Q3/2022
 
 - full-scale launch
 - continued testing
@@ -315,7 +315,7 @@ In the extended functionality, which the user is supposed to have access to, int
 - functional expansion
 - customer geographic expansion
 
-### Q4/2021
+### Q4/2022
 
 - Beginning negotiations with state and near-state agencies on the integration of the proposed technologies and the development of partnership programs.
 - Testing of extended functionality of the application.
@@ -423,34 +423,30 @@ As the project develops (see the project roadmap), the following additional reso
 
 ## Financial part
 
-The development of a full-fledged financial and investment plan is planned for the first quarter of 2021, with the involvement of necessary outside specialists (experts in taxation, marketing and advertising experts, specialists in investment economics, etc.).
+The development of a full-fledged financial and investment plan is planned for the first quarter of 2022, with the involvement of necessary outside specialists (experts in taxation, marketing and advertising experts, specialists in investment economics, etc.).
 
-The final business plan will include:
+The final business plan will include following parts:
+
+### Financial prevision 
 
 - A report of Financial Performance.
 - A report of cash flow.
 - Report of financial position (balance sheet).
 - Calculation of return on investment.
-- Market analysis:
-  * existing platforms.
-  * service structure of existing platforms.
-  * shortcomings of existing platforms.
-  * analysis of the growth in popularity of B2B and C2C platforms.
 
-### Structure of investments:
+### Market analysis
 
-```yaml
-- Cost structure:
-  - Year 1.
-  - Year 2.
-  - Year 3.
-- Income structure:
-  - Year 1.
-  - Year 2.
-  - Year 3.
-```
+* existing platforms.
+* service structure of existing platforms.
+* shortcomings of existing platforms.
+* analysis of the growth in popularity of B2B and C2C platforms.
 
-Preparation and formation of the final business plan is planned for the first quarter of 2021.
+### Structure of investments
+
+* This will include the structure of in- and outcome costs for next three years.
+
+
+Preparation and formation of the final business plan is planned for the first quarter of 2022.
 
 Below is the structure of the initial investments (seed investments) required to start the project and its further development.
 
