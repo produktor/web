@@ -22,13 +22,13 @@ This section presents a vision for the design of the future company's promotiona
 
 ![](assets/ci/img_1.png)
 
-# Logos
+## Logos
 
-## Black on white
+### Black on white
 
 ![](assets/ci/logo-small-black.png)
 
-## White on black
+### White on black
 
 ![](assets/ci/logo-small-white.png)
 
@@ -46,21 +46,21 @@ This section presents a vision for the design of the future company's promotiona
 
 ![](assets/ci/notebook2.png)
 
-# Visit Cards
+## Visit Cards
 
-## Front
+### Front
 
 ![](assets/ci/vc-back.png)
 
-## Back
+### Back
 
 ![](assets/ci/vc-front.png)
 ![](assets/ci/vc-front2.png)
 
-# Corporate Website
+## Corporate Website
 
 ![](assets/ci/web-1.png)
 
-# T-Shirt
+## T-Shirt
 
 ![](assets/ci/t-shirt.png)
