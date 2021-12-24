@@ -24,7 +24,7 @@ As of the end of 2021, there are more than 11,000 different cryptocurrencies in 
 
 ---
 
-## Cryptocurrency markets today
+### Cryptocurrency markets today
 
 ![](assets/TotalCryptoMarketCap%20chart.png)
 
@@ -32,7 +32,7 @@ The growth of the total capitalization of cryptocurrency markets.
 
 
 
-## Transaction amount
+### Transaction amount
 
 ![](assets/BTCTransactionGrowth.png)
 
@@ -47,7 +47,7 @@ If we talk about modern markets, in one way or another related to cryptocurrenci
 
 
 
-# Current situation analysis
+## Current situation analysis
 
 A lot of cryptocurrency projects provide one way or another the possibility to exchange the specified assets, but at the same time do not provide users with the possibility to use crypto-assets as an equivalent local means of payment/asset for intermediate exchange and expression of value of goods/services.
 
@@ -71,7 +71,7 @@ Analysis of sales markets is carried out in most cases by traditional methods an
 
 > Figure 3. Percentage of private e-commerce participants in the EU who refused to purchase goods and services due to excessive platform complexity or excessive security requirements:
 
-## Development of the idea
+### Development of the idea
 
 Interest in platforms that provide the greatest degree of interaction of users with each other and with the world around them emerged a long time ago and was developed in the formation of the concept of Web 3.0. A decentralized Internet that is not subject to control and censorship will inevitably allow the creation of ever better content and offer ever-increasing quality of services.
 
@@ -92,64 +92,64 @@ At the same time, the last two years have seen a steady increase in the interest
 
 Thus, the emergence of a complete platform in the sector that meets the needs of users in terms of security, reliability, speed of transactions and accessibility will inevitably attract to its use the ever-increasing percentage of customers who focus primarily on e-commerce and C2C business models.
 
-# Product description
+## Product description
 
 [Produktor.io](https://produktor.io) is a mobile application based on a proprietary mapping service. The app is designed to facilitate C2C communication for users by enabling them to either directly exchange goods/services, or to do so using cryptocurrencies as an intermediate exchange asset or a LOCAL equivalent of a payment instrument.
 
 The idea of the application emerged as a reaction to the analysis of existing markets and their drawbacks (see Introduction). Both the disadvantages associated with the overall centralized structure of markets and the integration of crypto-assets into global market processes were analyzed.
 
-## Issues under consideration and ways to solve them
+### Issues under consideration and ways to solve them
 
 From the *developers* point of view, the main drawbacks of the existing markets of turnover of goods (turnover of services) at the level of private users and small businesses can be identified as the following:
 
-### Communication instability
+#### Communication instability
 
 Lack of unified norms of interpretation of laws and rules, technical problems of modern networks, increasing degree of state interference in market processes, other well-known problems of centralized systems.
 
 Communicational instability, in its turn, leads to very negative consequences, limiting the potential of the existing system for further development - reduction of users' trust in the platforms providing services of exchange and purchase/sale of goods and services,   accumulation of technical errors, which inevitably lead to malfunction of the existing systems, supply chain disorders, the need to use the services of a vast class of intermediaries (lawyers, notaries, banks, courts), especially in case of different kinds of problems, the need to use the services of the intermediaries of the existing systems.
 
-### High taxes and strict regulation in commodity turnover
+#### High taxes and strict regulation in commodity turnover
 
 Participation of small and medium businesses in commodity exchange operations results in inclusion by their representatives in the price of such goods of amounts of taxes and fees affecting ultimately the price of goods/services for the end consumer. As for participation of individuals in this sector, their activities are seriously restricted at the legislative level - exceeding the volume of transactions or limits of money turnover may lead to the procedure of recognizing such a market participant as a person in the status of entrepreneur without appropriate registration, with all the legal consequences arising from this.
 
-### Excessive presence of intermediaries in the market
+#### Excessive presence of intermediaries in the market
 
 In the existing system, based on centralized regulation and control, there is a large layer of persons providing the widest range of services that can be conditionally referred to the class of intermediaries. It is impossible to make payments without using the modern banking system as an intermediary, it is often necessary to go through special registration procedures to participate in full-fledged barter transactions, and the emergence of disputes  and differences in the terms of contracts and agreements causes the involvement of additional actors in the relationship between the parties to the transaction - lawyers, escrow agents, notaries, the courts.
 
-### Growing number of crypto-asset holders with limited ability to fully use them
+#### Growing number of crypto-asset holders with limited ability to fully use them
 
 In recent years, the number of Internet users, somehow connected with cryptocurrencies, is constantly growing. At the same time, user activity is limited to investment and trading activities, as full-fledged integration of crypto-assets into the existing markets is currently impossible, primarily due to the uncertainty of regulation of this industry at the interstate and state levels. A huge amount of crypto-assets are held by users in their wallets, without taking any  participation in the commodity turnover.
 
 > **TODO**: Supplement with graphical information showing the growth of users of cryptocurrency markets (growth of accounts on cryptocurrency exchanges, growth of the number of wallets, growth of trading volume of major cryptocurrency exchanges)
 
-## Main objectives
+### Main objectives
 
 Based on the understanding of the problems described earlier, the developers of the project set themselves the following tasks:
 
 
-### Rationalization
+#### Rationalization
 
 Development of an application that rationalizes the existing system of intermediaries in trade transactions by automating most of the processes at the technical level, and making it easier for users to use Dapp to buy/sell goods and services.
 
-### Practical usage of crypto-assets
+#### Practical usage of crypto-assets
 
 Development of a system that would allow users to fully use crypto-assets as a means of payment/exchange, thus contributing to the popularization of crypto-assets and increasing their integration into modern markets of goods and services
 
-### Transparent commercial activity
+#### Transparent commercial activity
 
 Development of a system that allows, in addition to the above, to analyze the commercial activity of users in order to improve market research methodologies and enable the identification of new markets.
 
 
 
-## Technical facilities
+### Technical facilities
 
 These tasks will be solved in [Produktor.io]() by the following:
 
-### Exchange calendar
+#### Exchange calendar
 
 The ability to temporarily plan the provision of goods/services by the user (downloading the information and the schedule of work/providing goods or services)
 
-### Exchange map
+#### Exchange map
 
 Possibility of geolocation of goods/services delivery zone with indication of exact location or zone borders.
 
@@ -159,11 +159,11 @@ Additional features are:
 * Local product searching
 * Interactive map with editing abilities
 
-### Use of decentralized cryptocurrencies
+#### Use of decentralized cryptocurrencies
 
 Providing user with the possibility of quick and guaranteed crypto-assets exchange when performing transactions in the application, or direct use of crypto-assets as a local means of payment.
 
-### Object recognition system
+#### Object recognition system
 
 The application will enable automatic detection and identification of goods/products from the image captured by a smartphone video camera, as well as recognition of significant properties and characteristics of the product using AI, such as:
 
@@ -172,12 +172,12 @@ The application will enable automatic detection and identification of goods/prod
 - Product images, video or other media
 - Average price (zone-based analysis of online prices)
 
-## Efficient data saving
+### Efficient data saving
 
 * Decentralized data distribution
 * Efficient data storage based on IPFS/SkyDB
 
-### User-friendly user interface
+#### User-friendly user interface
 
 Minimally simple, intuitive user interface using:
 
@@ -186,7 +186,7 @@ Minimally simple, intuitive user interface using:
 - a convenient system for specifying essential information about a product/service or essential terms of sale.
 - **wish list** is a system that allows users to leave requests or requests for future availability of certain goods/services in areas specified by users. This system will allow sellers of goods/services to always respond to current market demands, as well as constantly improve the accuracy, completeness and reliability of statistical information about markets for market research and business analysis purposes.
 
-## Services analyzing
+### Services analyzing
 
 One of the main functions of the application is also to improve accepted market analysis techniques by collecting and then analyzing the following information:
 
@@ -211,11 +211,11 @@ Secondly, the target audience of the project is individual entrepreneurs, small 
 
 Finally, market players such as large trading companies, market research agencies, and business planning agencies constitute the part of the target audience that will be primarily interested in the data set generated based on the analysis of the commercial activity of application users and of primary interest in conducting market analysis, identifying new markets, and developing commercial strategies for development and expansion.
 
-## Initial calculation of project feasibility
+### Initial calculation of project feasibility
 
 When studying existing markets and platforms with similar functionality to [Produktor.io](), the developers came to the following conclusions:
 
-## Pricing model
+### Pricing model
 
 As conceived by the developers, the main income items from the operation of the application will be formed as follows:
 
@@ -223,28 +223,28 @@ The following is a description of the basic functionality of the application, as
 
 According to the proposed business model, the main income items of the project will be:
 
-### Fees
+#### Fees
 
 Transaction fees (thanks to a number of innovative technical solutions in blockchain, the application is able to perform transactions with minimal fees for the end user, which is one oc
 
-### Markets supply
+#### Markets supply
 
 Implementation of data about demand/supply on markets, data about geographical and temporal distribution of user requests, other statistical information obtained from collection and analysis of data about application users' activity.
 
-### Advertising
+#### Advertising
 
 Placement of paid advertising content.
 
 
-### Advanced functionality
+#### Advanced functionality
 
 Registration of paid users with access to the application's extended functionality.
 
-### Enterprise support
+#### Enterprise support
 
 Providing users with extended technical support services.
 
-## Approximate distribution
+### Approximate distribution
 
 The avg. distribution of future revenues by source of monetization:
 
@@ -287,9 +287,9 @@ In the extended functionality, which the user is supposed to have access to, int
 
 
 
-# Roadmap
+## Roadmap
 
-## Q1/2021
+### Q1/2021
 
 - launch of MWP based on TERA on the local market.
 - testing.
@@ -299,13 +299,13 @@ In the extended functionality, which the user is supposed to have access to, int
 - involvement of the primary user level.
 - preparation of the document base/CI.
 
-## Q2/2021
+### Q2/2021
 
 - launch of an active marketing campaign.
 - Attracting investment for the development and tokenization of the project.
 - Getting developers involved in the team.
 
-## Q3/2021
+### Q3/2021
 
 - full-scale launch
 - continued testing
@@ -313,7 +313,7 @@ In the extended functionality, which the user is supposed to have access to, int
 - functional expansion
 - customer geographic expansion
 
-## Q4/2021
+### Q4/2021
 
 - Beginning negotiations with state and near-state agencies on the integration of the proposed technologies and the development of partnership programs.
 - Testing of extended functionality of the application.
@@ -326,13 +326,13 @@ In the extended functionality, which the user is supposed to have access to, int
   \newpage
 
 
-# Organizational structure
+## Organizational structure
 
 It is planned to create its own permanent team to provide all the basic needs of the project. In addition, for one-time and periodic tasks it is expected to attract outside resources on a contract basis.
 
-## Team Lead
+### Team Lead
 
-### Functionality
+#### Functionality
 
 * planning and organizing the team's work
 * motivating the developers
@@ -340,13 +340,13 @@ It is planned to create its own permanent team to provide all the basic needs of
 * adoption and implementation of management decisions
 * back end development
 
-### Expenses
+#### Expenses
 
 * 80-100k USD per year
 
-## Software developer
+### Software developer
 
-### Functionality
+#### Functionality
 
 * Frontend development
   * Card processing
@@ -357,13 +357,13 @@ It is planned to create its own permanent team to provide all the basic needs of
 * Application support
 * Third line of user support
 
-### Expenses
+#### Expenses
 
 - 50k-100k per year, depending on experience and speed of tasks
 
-## Copywriter/Legal assistant
+### Copywriter/Legal assistant
 
-### Functionality
+#### Functionality
 
 * Formation, preparation and editing of a package of project documentation, including a business plan.
 * control of document flow.
@@ -372,28 +372,28 @@ It is planned to create its own permanent team to provide all the basic needs of
 * preparation, participation in negotiations
 * Initial HR-activity - involvement of necessary specialists, control and coordination of their work, organization of necessary measures, control over internal reporting - with further transfer of these functions to Project Manager.
 
-### Expenses
+#### Expenses
 
 - 60-90k USD per year, depending on the amount of work
 
-## Key account manager - Project Owner.
+### Key account manager - Project Owner.
 
-### Functionality
+#### Functionality
 
 * Interaction with investors, sponsors, partners, negotiations, signing agreements and contracts.
 * Providing support to Project Manager.
 * Presentation of the project.
 * Preparation and signing of necessary investment agreements - in cooperation with copywriter.
 
-### Expenses
+#### Expenses
 
 - 60-90k USD per year
 
-## Quality Assurance / Quality Service
+### Quality Assurance / Quality Service
 
 > **IMPORTANT**: Three people are originally supposed to be on the team!
 
-### Functionality
+#### Functionality
 
 - testing quality control of the application.
 - identifying and analyzing errors and problems that users encounter while working with the application.
@@ -401,11 +401,11 @@ It is planned to create its own permanent team to provide all the basic needs of
 - development of test scenarios.
 - documenting the defects found.
 
-### Expenses
+#### Expenses
 
 - 40k USD per year
 
-## Others
+### Others
 
 As the project develops (see the project roadmap), the following additional resources need to be attracted:
 
@@ -419,7 +419,7 @@ As the project develops (see the project roadmap), the following additional reso
 
 
 
-# Financial part
+## Financial part
 
 The development of a full-fledged financial and investment plan is planned for the first quarter of 2021, with the involvement of necessary outside specialists (experts in taxation, marketing and advertising experts, specialists in investment economics, etc.).
 
@@ -435,7 +435,7 @@ The final business plan will include:
   * shortcomings of existing platforms.
   * analysis of the growth in popularity of B2B and C2C platforms.
 
-## Structure of investments:
+### Structure of investments:
 
 ```yaml
 - Cost structure:
@@ -457,7 +457,7 @@ The total initial investment for 2022 will be **738,000 USD**. The approximate d
 ![](assets/diagrams/Total%20costs.svg)
 
 
-### Investments for Q1/22:
+#### Investments for Q1/22:
 
 
 ![](assets/diagrams/Supply%20for%20Q1_2022.svg)
@@ -465,31 +465,31 @@ The total initial investment for 2022 will be **738,000 USD**. The approximate d
 >  Amount: **135,000 USD**
 
 
-### Investments for Q2/22:
+#### Investments for Q2/22:
 
 ![](assets/diagrams/Supply%20for%20Q2_2022.svg)
 
 > Amount: **181,000 USD**
 
 
-### Investments for Q3/22:
+#### Investments for Q3/22:
 
 ![](assets/diagrams/Supply%20for%20Q3_2022.svg)
 
 > Amount: **212,000 USD**
 
-### Investments for Q4/22:
+#### Investments for Q4/22:
 
 ![](assets/diagrams/Supply%20for%20Q4_2022.svg)
 
 > Amount: **205,000 USD**
 
 
-## Investment Model and Initial Tokenomics Calculations
+### Investment Model and Initial Tokenomics Calculations
 
 During the seed round of the investment round, potential investors are offered the model described below.
 
-### Primary calculations of tokenomics of the project
+#### Primary calculations of tokenomics of the project
 
 The project is supposed to issue its own token, which is mixed in nature:
 
@@ -501,7 +501,7 @@ A deflationary ITO model is envisaged, where the issuance is limited to a certai
 
 During the first year of the project's activity, the tokens transferred to investors will be stored by them without the possibility of realization on existing cryptocurrency platforms. In addition, preseed- and seed-stage investors will be guaranteed the right to an advisory vote in the elaboration of the main strategic directions of project development, the development of the project's tokenomics, the elaboration of the project's business plan and financial models. The investors will retain this right until the end of HT according to the issuance scheme.
 
-### Preliminary investment model
+#### Preliminary investment model
 
 Due to the choice of a deflationary ITO model, the following preliminary issuance scheme is assumed:
 
@@ -518,7 +518,7 @@ To bring the project to ITO and listing tokens on exchanges, a preliminary calcu
 At the end of HT and the GMP retention period, the value of the token will be determined solely by the development of the project and market performance.
 
 
-# Abbreviations
+## Abbreviations
 
 * [Blockchain](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD) - A single ranked decentralized network and immutable, but scalable, data repository
 * [CI](https://ru.wikipedia.org/wiki/CI/CD) - Continuous integration is a development practice in which developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by automated builds and automated tests. ... These include revision control, automated build automation, and automated testing.
