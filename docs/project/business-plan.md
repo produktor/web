@@ -71,8 +71,6 @@ Analysis of sales markets is carried out in most cases by traditional methods an
 
 > Figure 3. Percentage of private e-commerce participants in the EU who refused to purchase goods and services due to excessive platform complexity or excessive security requirements:
 
-\newpage
-
 ## Development of the idea
 
 Interest in platforms that provide the greatest degree of interaction of users with each other and with the world around them emerged a long time ago and was developed in the formation of the concept of Web 3.0. A decentralized Internet that is not subject to control and censorship will inevitably allow the creation of ever better content and offer ever-increasing quality of services.
@@ -485,8 +483,6 @@ The total initial investment for 2022 will be **738,000 USD**. The approximate d
 ![](assets/diagrams/Supply%20for%20Q4_2022.svg)
 
 > Amount: **205,000 USD**
-
-\newpage
 
 
 ## Investment Model and Initial Tokenomics Calculations
