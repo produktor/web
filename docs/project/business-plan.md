@@ -66,6 +66,39 @@ To ensure the reliability of transactions, it is often necessary to involve inte
 Analysis of sales markets is carried out in most cases by traditional methods and takes place at the expense of primitive surveys. This, in turn, leads to the fact that market participants do not have sufficiently accurate information about needs and intentions of buyers/sellers of goods and services.
 
 
+> ![](assets/ISOC_CISCI_AX_BAR_2021-12-23T16_51_44Z.svg)
+
+
+> Figure 3. Percentage of private e-commerce participants in the EU who refused to purchase goods and services due to excessive platform complexity or excessive security requirements:
+
+\newpage
+
+## Development of the idea
+
+Interest in platforms that provide the greatest degree of interaction of users with each other and with the world around them emerged a long time ago and was developed in the formation of the concept of Web 3.0. A decentralized Internet that is not subject to control and censorship will inevitably allow the creation of ever better content and offer ever-increasing quality of services.
+
+One of the interesting projects aimed at the practical implementation of the Web 3.0 concept was OpenBazaar, created in 2014. The project involved the creation of a decentralized platform allowing users to engage in online commerce using BTC.
+
+An impressive community was formed around the project; by mid-2016, the project had more than 100,000 downloaded participants, and the service itself won three BlockchainAwards-2016 nominations - "Most Promising User Application," "Best New Startup" and "Bitcoin Champion of the Year.
+
+However, despite the growing number of users (the OpenBazaar software was eventually installed more than 250,000 times), the service was subsequently discontinued for reasons unrelated to the decline in user interest (to this day, the user community is asking questions about the timing of resuming the service, or launching a similar one). As one of OpenBazaar co-founders Brian Hoffman said in his [interview](https://www.coindesk.com/business/2021/07/15/openbazaar-co-founder-explains-why-web-3s-answer-to-ebay-folded-its-tents/) to the Coindesk platform:
+
+
+>...As for why OpenBazaar has not become widespread, there are countless possible reasons. The biggest one I can point to is that cryptocurrency, bitcoin in particular, went from being a cheap alternative to cash to a store of value - digital gold - which was not conducive to everyday shopping in e-commerce like Amazon. When Ethereum came along and took the bulk of the dapp from bitcoin, we were hesitant to join its board. I'm not sure it would have helped us, because so far no Ethereum-based alternative to OpenBazaar has emerged that has gotten much traction. Most of them have switched to selling only digital goods or unplayable tokens, which are much better suited to the instantaneous nature of cryptocurrency.
+
+The aforementioned factors persist at the present time, and the degree of their influence on user sentiment is also growing. At the same time, the platform that could occupy the OpenBazaar niche does not exist to this day, and the created (even if not fully advertised) niche in the modern market remains unoccupied.
+
+At the same time, the last two years have seen a steady increase in the interest of the average consumer in the C2C sector. As follows from the analysis conducted by the [CROSS-BORDER] platform (https://www.cbcommerce.eu)
+
+>The total turnover of the cross-border e-commerce market in Europe, including the UK, Switzerland and Norway, is €198.5 billion in 2020 (excluding travel costs), of which €115.4 billion, or 58%, comes from trading platforms. Amazon and eBay have the lion's share of the market, with expected turnover of €44.3 billion and €22.8 billion in 2020, more than half the market. The turnover of the top 100 cross-border trading platforms in Europe reaches 100 billion euros. **During the COVID-19 pandemic, trading platforms grew by 37.5% at the expense of C2C trading platforms. This growth is expected to continue and. to reach 65% of cross-border online sales in Europe by 2025.
+
+Thus, the emergence of a complete platform in the sector that meets the needs of users in terms of security, reliability, speed of transactions and accessibility will inevitably attract to its use the ever-increasing percentage of customers who focus primarily on e-commerce and C2C business models.
+
+# Product description
+
+[Produktor.io](https://produktor.io) is a mobile application based on a proprietary mapping service. The app is designed to facilitate C2C communication for users by enabling them to either directly exchange goods/services, or to do so using cryptocurrencies as an intermediate exchange asset or a LOCAL equivalent of a payment instrument.
+
+The idea of the application emerged as a reaction to the analysis of existing markets and their drawbacks (see Introduction). Both the disadvantages associated with the overall centralized structure of markets and the integration of crypto-assets into global market processes were analyzed.
 
 ## Issues under consideration and ways to solve them
 
@@ -176,10 +209,13 @@ Based on the above, you can determine the target audience of the project.
 
 First, this category should include ordinary market participants (individuals) who wish to provide/receive services or sell/purchase goods not as part of commercial, but as part of everyday activities. The growth of the number of users of such platforms as [eBay](), [Amazon](), [AVITO]() and the like allows us to unambiguously determine the steady interest of this category for further growth and development of the sector.
 
-Secondly, the target audience of the project is individual entrepreneurs, small and medium-sized businesses wishing to expand their customer base and the range of goods/services offered through the transfer of sales to the Internet space, or already conducting such activities. This category will be interested not only in the tools offered to analyze markets and build an effective commercial strategy, but also in the possibility of automated accounting of transactions and the formation of the necessary
-supporting documentation, as well as accounting and tax reporting documents.
+Secondly, the target audience of the project is individual entrepreneurs, small and medium-sized businesses wishing to expand their customer base and range of goods/services offered by transferring sales to the Internet space, or already conducting such activities. This category would be interested not only in the proposed tools to analyze markets and build an effective commercial strategy, but also in the possibility of automated accounting of transactions and the formation of the necessary supporting documentation, as well as accounting and tax reporting documents.
 
-Finally, market players such as large trading companies, market research agencies, and business planning agencies constitute the part of the target audience that will be primarily interested in the data set generated from the analysis of the commercial activity of the application users and which is of primary interest in conducting market analysis, identifying new markets, and developing commercial strategies for development and expansion.
+Finally, market players such as large trading companies, market research agencies, and business planning agencies constitute the part of the target audience that will be primarily interested in the data set generated based on the analysis of the commercial activity of application users and of primary interest in conducting market analysis, identifying new markets, and developing commercial strategies for development and expansion.
+
+## Initial calculation of project feasibility
+
+When studying existing markets and platforms with similar functionality to [Produktor.io](), the developers came to the following conclusions:
 
 ## Pricing model
 
@@ -214,7 +250,7 @@ Providing users with extended technical support services.
 
 The avg. distribution of future revenues by source of monetization:
 
-![img_2.png](assets/diagrams/img_2.png)
+![](assets/diagrams/Total%20costs.svg)
 
 Normal registration in the application (for all categories of users during the beta-testing period, for free accounts - after the full launch of the application) will give the user access to basic functionality, which includes the following features:
 
@@ -286,8 +322,10 @@ In the extended functionality, which the user is supposed to have access to, int
 - testing of paid accounts.
 - Launch and testing of automatic product recognition systems based on camera images.
 - re-marketing research to assess the degree of integration of the application in the market, and development of the strategy for 2023.
-- launch and testing of the system for automatic accounting of transactions and preparation of primary accounting documents.
-
+- запуск и тестирование системы автоматического учета операций и составления первичной бухгалтерской документации;
+- подготовка к проведению раунда A по привлечению инвестиций;
+- разработка полной модели токеномики проекта, подготовка к эмиссии токенов.
+  \newpage
 
 
 # Organizational structure
@@ -401,6 +439,7 @@ The final business plan will include:
 
 ## Structure of investments:
 
+```yaml
 - Cost structure:
   - Year 1.
   - Year 2.
@@ -409,50 +448,78 @@ The final business plan will include:
   - Year 1.
   - Year 2.
   - Year 3.
+```
 
 Preparation and formation of the final business plan is planned for the first quarter of 2021.
 
 Below is the structure of the initial investments (seed investments) required to start the project and its further development.
 
-The total initial investment for 2022 will be **766,000 USD**. The approximate distribution of investment costs is shown below:
+The total initial investment for 2022 will be **738,000 USD**. The approximate distribution of investment costs is shown below:
 
-<iframe width="100%" height="405" frameborder="0" scrolling="no" src="//plotly.com/~eslider/3.embed"></iframe>
-
-
-The total amount of investment: ***736,000 USD***
+![](assets/diagrams/Total%20costs.svg)
 
 
 ### Investments for Q1/22:
 
 
-<iframe  width="100%" height="405" frameborder="0" scrolling="no" src="//plotly.com/~eslider/5.embed"></iframe>
+![](assets/diagrams/Supply%20for%20Q1_2022.svg)
 
-> - Amount: **134,500 USD**
+>  Amount: **135,000 USD**
 
 
 ### Investments for Q2/22:
 
-- Amount:**180,500 USD**
-- Distribution:
+![](assets/diagrams/Supply%20for%20Q2_2022.svg)
 
-![img_5.png](assets/diagrams/img_5.png)
+> Amount: **181,000 USD**
 
 
 ### Investments for Q3/22:
 
-- Amount: **211,500 USD**
-- Distribution:
+![](assets/diagrams/Supply%20for%20Q3_2022.svg)
 
-![img_1.png](assets/diagrams/img_1.png)
-
+> Amount: **212,000 USD**
 
 ### Investments for Q4/22:
 
-- Amount: **209,500 USD**
-- Distribution:
+![](assets/diagrams/Supply%20for%20Q4_2022.svg)
 
-![img.png](assets/diagrams/img.png)
+> Amount: **205,000 USD**
 
+\newpage
+
+
+## Инвестиционная модель и первичные расчеты токеномики
+
+На этапе проведения seed-раунда привлечения инвестиций, потенциальным инвесторам предлагается описанная ниже модель.
+
+### Первичные расчеты токеномики проекта
+
+В проекте предполагается эмиссия собственного токена, носящего смешанный характер:
+
+- нативный токен проекта позволит своему владельцу использовать его для приобретения услуг (расширенного функционала, расширенной технической поддержки, расширенной подписки и т.п.), предоставляемых непосредственно командой разработчиков и командой техподдержки проекта;
+- нативный токен проекта будет выступать внутренним договорным средством обмена, что позволит владельцам использовать его для приобретения товаров/услуг, предлагаемых другими пользователями проекта;
+- нативный токен проекта в рамках проведения ITO будет выведен на различные криптовалютные биржи, что позволит его владельцам получить впоследствии прибыль от его реализации при гарантированном удержании цены токена командой проекта в течение срока, определяемого программой ITO.
+
+Предусмотрена дефляционная модель ITO, при которой эмиссия ограничена определенным количеством токенов.
+
+В течение первого года деятельности проекта переданные инвесторам токены будут храниться ими без возможности реализации на существующих криптовалютных платформах. Дополнительно инвесторам preseed- и seed- стадии будет гарантировано право совещательного голоса при разработке основных стратегических направлений развития проекта, разработке токеномики проекта, разработке бизнес-плана проекта и финансовых моделей. Указанное право будет сохраняться за инвесторами вплоть до окончания HT согласно схеме эмиссии.
+
+### Предварительная инвестиционная модель
+
+В связи с выбором дефляционной модели ITO предполагается следующая предварительная схема эмиссии:
+
+- **TS (Total Supply)** - общий объем эмиссии, составляет 4.000.000 токенов;
+- **IP (Initial Price)** - начальный курс токена, определяемый при эмиссии, и закрепленный в смарт-контракте, составляет 1.00 Евро за токен;
+- **HT (Hold Time)** - обязательный период удержания токена инвестором, составляет 3 месяца с момента вывода токена на биржу. В течение HT смарт-контрактами для инвесторов будет предусмотрено дополнительное вознаграждение в размере 0,85% от общего количества токенов за месяц (2,65% за весь HT), вознаграждение будет выплачено по окончании HT в токенах проекта;
+- **GMP (Guaranteed Market Price)** - устанавливается исключительно для целей гарантирования интересов инвесторов на preseed- и seed-стадии. С момента вывода токена на биржи и окончания HT, смарт-контракты будут предусматривать обязательное поддержание проектом цены на уровне 2.00 Евро за токен, что даст инвесторам возможность возврата инвестиций со ставкой 100% без учета инфляционных показателей. Проект предусматривает направление 20% общей эмиссии токена на депонирование на биржах для обеспечения "откупов" токена в моменты продаж по цене, ниже заявленной для GMP.
+
+Для вывода проекта на ITO и листинга токенов на биржах, предварительный расчет распределения эмиссии будет следующим:
+
+
+![](assets/diagrams/Total%20supply.svg)
+
+По окончании HT и периода удержания GMP ценность токена будет определяться исключительно развитием проекта и рыночными показателями.
 
 
 # Abbreviations
