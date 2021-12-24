@@ -489,37 +489,37 @@ The total initial investment for 2022 will be **738,000 USD**. The approximate d
 \newpage
 
 
-## Инвестиционная модель и первичные расчеты токеномики
+## Investment Model and Initial Tokenomics Calculations
 
-На этапе проведения seed-раунда привлечения инвестиций, потенциальным инвесторам предлагается описанная ниже модель.
+During the seed round of the investment round, potential investors are offered the model described below.
 
-### Первичные расчеты токеномики проекта
+### Primary calculations of tokenomics of the project
 
-В проекте предполагается эмиссия собственного токена, носящего смешанный характер:
+The project is supposed to issue its own token, which is mixed in nature:
 
-- нативный токен проекта позволит своему владельцу использовать его для приобретения услуг (расширенного функционала, расширенной технической поддержки, расширенной подписки и т.п.), предоставляемых непосредственно командой разработчиков и командой техподдержки проекта;
-- нативный токен проекта будет выступать внутренним договорным средством обмена, что позволит владельцам использовать его для приобретения товаров/услуг, предлагаемых другими пользователями проекта;
-- нативный токен проекта в рамках проведения ITO будет выведен на различные криптовалютные биржи, что позволит его владельцам получить впоследствии прибыль от его реализации при гарантированном удержании цены токена командой проекта в течение срока, определяемого программой ITO.
+- The native project token will allow its owner to use it to purchase services (extended functionality, extended technical support, extended subscriptions, etc.) provided directly by the development team and project support team;
+- The native project token will act as an internal contractual means of exchange, allowing its owners to use it to purchase goods/services offered by other project users;
+- Native token of the project will be put on different cryptocurrency exchanges during the ITO, which will allow its owners to profit from its sale in the future with a guaranteed retention of the token price by the project team during the term determined by the ITO program.
 
-Предусмотрена дефляционная модель ITO, при которой эмиссия ограничена определенным количеством токенов.
+A deflationary ITO model is envisaged, where the issuance is limited to a certain number of tokens.
 
-В течение первого года деятельности проекта переданные инвесторам токены будут храниться ими без возможности реализации на существующих криптовалютных платформах. Дополнительно инвесторам preseed- и seed- стадии будет гарантировано право совещательного голоса при разработке основных стратегических направлений развития проекта, разработке токеномики проекта, разработке бизнес-плана проекта и финансовых моделей. Указанное право будет сохраняться за инвесторами вплоть до окончания HT согласно схеме эмиссии.
+During the first year of the project's activity, the tokens transferred to investors will be stored by them without the possibility of realization on existing cryptocurrency platforms. In addition, preseed- and seed-stage investors will be guaranteed the right to an advisory vote in the elaboration of the main strategic directions of project development, the development of the project's tokenomics, the elaboration of the project's business plan and financial models. The investors will retain this right until the end of HT according to the issuance scheme.
 
-### Предварительная инвестиционная модель
+### Preliminary investment model
 
-В связи с выбором дефляционной модели ITO предполагается следующая предварительная схема эмиссии:
+Due to the choice of a deflationary ITO model, the following preliminary issuance scheme is assumed:
 
-- **TS (Total Supply)** - общий объем эмиссии, составляет 4.000.000 токенов;
-- **IP (Initial Price)** - начальный курс токена, определяемый при эмиссии, и закрепленный в смарт-контракте, составляет 1.00 Евро за токен;
-- **HT (Hold Time)** - обязательный период удержания токена инвестором, составляет 3 месяца с момента вывода токена на биржу. В течение HT смарт-контрактами для инвесторов будет предусмотрено дополнительное вознаграждение в размере 0,85% от общего количества токенов за месяц (2,65% за весь HT), вознаграждение будет выплачено по окончании HT в токенах проекта;
-- **GMP (Guaranteed Market Price)** - устанавливается исключительно для целей гарантирования интересов инвесторов на preseed- и seed-стадии. С момента вывода токена на биржи и окончания HT, смарт-контракты будут предусматривать обязательное поддержание проектом цены на уровне 2.00 Евро за токен, что даст инвесторам возможность возврата инвестиций со ставкой 100% без учета инфляционных показателей. Проект предусматривает направление 20% общей эмиссии токена на депонирование на биржах для обеспечения "откупов" токена в моменты продаж по цене, ниже заявленной для GMP.
+- **TS (Total Supply)** - The total volume of issuance, is 4.000.000 tokens;
+- **IP (Initial Price)** - initial rate of the token, determined during the issuance and fixed in the smart contract, is 1.00 euros per token;
+- **HT (Hold Time)** - mandatory period of token holding by the investor, is 3 months from the moment the token is placed on the exchange. During HT, smart contracts will provide investors with additional remuneration in the amount of 0.85% of the total number of tokens for the month (2.65% for the whole HT), remuneration will be paid at the end of HT in project tokens;
+- **GMP (Guaranteed Market Price)** - set exclusively for the purpose of guaranteeing the interests of investors at the preseed and seed stages. From the moment the token is listed on exchanges and HT ends, smart contracts will stipulate that the project will maintain a mandatory price of €2.00 per token, which will give investors the opportunity to return their investment at a rate of 100% without regard to inflation rates. The project envisages directing 20% of the total token issue to be deposited on exchanges to provide "repurchases" of the token at times of sale at a price lower than the stated price for GMP.
 
-Для вывода проекта на ITO и листинга токенов на биржах, предварительный расчет распределения эмиссии будет следующим:
+To bring the project to ITO and listing tokens on exchanges, a preliminary calculation of the distribution of the issue will be as follows:
 
 
 ![](assets/diagrams/Total%20supply.svg)
 
-По окончании HT и периода удержания GMP ценность токена будет определяться исключительно развитием проекта и рыночными показателями.
+At the end of HT and the GMP retention period, the value of the token will be determined solely by the development of the project and market performance.
 
 
 # Abbreviations
