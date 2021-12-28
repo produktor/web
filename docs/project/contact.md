@@ -2,7 +2,7 @@
 template: overrides/main.html icon: material/image-size-select-small
 ---
 
-# Contacts
+# Contact us
 
 <form method="post" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSckPILpw5z0dRTwRVYPNnVno7I1C53PTC30EIsGp5VkITIzMA/formResponse" >
   <p>
