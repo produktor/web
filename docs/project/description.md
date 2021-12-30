@@ -4,7 +4,7 @@ icon: material/image-size-select-small
 ---
 # About
 
-[Produktor.io](https://produktor.io/web/ui) is a mobile application based on a proprietary mapping service.
+[Produktor.io](https://produktor.github.io/web/) is a mobile application based on a proprietary mapping service.
 
 The application is designed to facilitate C2C communication for users by enabling them to either directly exchange goods/services, or to do so using cryptocurrencies as an intermediate exchange asset or a LOCAL equivalent of a payment instrument.
 
