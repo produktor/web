@@ -188,7 +188,7 @@ Minimally simple, intuitive user interface using:
 - a convenient system for specifying essential information about a product/service or essential terms of sale.
 - **wish list** is a system that allows users to leave requests or requests for future availability of certain goods/services in areas specified by users. This system will allow sellers of goods/services to always respond to current market demands, as well as constantly improve the accuracy, completeness and reliability of statistical information about markets for market research and business analysis purposes.
 
-**For more details, see also [F.A.Q.](/FAQ.md) section**
+**For more details, see also [F.A.Q.](project/FAQ.md) section**
 
 ### Services analyzing
 
