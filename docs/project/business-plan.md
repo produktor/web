@@ -174,7 +174,7 @@ The application will enable automatic detection and identification of goods/prod
 - Product images, video or other media
 - Average price (zone-based analysis of online prices)
 
-### Efficient data saving
+#### Efficient data saving
 
 * Decentralized data distribution
 * Efficient data storage based on IPFS/SkyDB
@@ -187,6 +187,8 @@ Minimally simple, intuitive user interface using:
 - **calendar** - to determine when a product/service is available for purchase by users.
 - a convenient system for specifying essential information about a product/service or essential terms of sale.
 - **wish list** is a system that allows users to leave requests or requests for future availability of certain goods/services in areas specified by users. This system will allow sellers of goods/services to always respond to current market demands, as well as constantly improve the accuracy, completeness and reliability of statistical information about markets for market research and business analysis purposes.
+
+**For more details, see also [F.A.Q.](/FAQ.md) section**
 
 ### Services analyzing
 
@@ -322,10 +324,9 @@ In the extended functionality, which the user is supposed to have access to, int
 - testing of paid accounts.
 - Launch and testing of automatic product recognition systems based on camera images.
 - re-marketing research to assess the degree of integration of the application in the market, and development of the strategy for 2023.
-- запуск и тестирование системы автоматического учета операций и составления первичной бухгалтерской документации;
-- подготовка к проведению раунда A по привлечению инвестиций;
-- разработка полной модели токеномики проекта, подготовка к эмиссии токенов.
-  \newpage
+- launch and testing of the system of automatic accounting of operations and preparation of primary accounting documents;
+- preparation for the A round of investment attraction;
+- development of a complete project tokenomics model, preparations for token issuance.
 
 
 ## Organizational structure
