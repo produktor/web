@@ -6,7 +6,7 @@ template: overrides/main.html icon: material/image-size-select-small
 
 Actually the project team is represented by two partners
 
-<img src="https://github.com/produktor/web/docs/project/assets/a_obl.png" alt="photo" width="200"/>
+<img src="assets/a_obl.png" alt="photo" width="200"/>
 
 #### Andrew Oblivantsev
 
@@ -17,7 +17,7 @@ Actually the project team is represented by two partners
 >High level full-stack engineer, with a huge experience in IT sector including blockchain and crypto areas. 
 >He has worked with major companies and corporations such as Audi AG, Vodafone GmBH, Telekom Deutschland, Axel Springer SE, Muellergroup, Baumüller and others.
 
-<img src="https://github.com/produktor/web/docs/project/assets/a_krn.png" alt="photo" width="200"/>
+<img src="assets/a_krn.png" alt="photo" width="200"/>
 
 #### Alex Krylov
 
