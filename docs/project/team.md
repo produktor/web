@@ -4,7 +4,32 @@ template: overrides/main.html icon: material/image-size-select-small
 
 # The Team
 
-We are currently forming our team and below is a list of open positions.
+Actually the project team is represented by two partners
+
+<img src="assets/a_obl.png" alt="photo" width="200"/>
+
+#### Andrew Oblivantsev
+
+###### *Currently performing the CTO and Team Lead functions*
+
+>Creator and ideological inspirer of the project, has been working on the project for more than 4 years. Developed the whole initial code base.
+>
+>High level full-stack engineer, with a huge experience in IT sector including blockchain and crypto areas. 
+>He has worked with major companies and corporations such as Audi AG, Vodafone GmBH, Telekom Deutschland, Axel Springer SE, Muellergroup, Baumüller and others.
+
+<img src="assets/a_krn.png" alt="photo" width="200"/>
+
+#### Alex Krylov
+
+###### *Currently performing CEO, copywriter and Legal assistant functions*
+
+>Joined the project in 2021.
+>
+>Lawyer with huge experience in Russia and Europe. Worked with big Russian and European companies in different projects. After being a general manager for the newest and biggest confectionary plant in Tenerife, Spain, has been working recently with investments projects in Spain and the Canary Islands.
+
+As our strategic partner, the project is also supported by the team of [Tera](https://www.terafoundation.org) - new-generation blockchain, specially by its founder and leader Yuriy Ivanov.
+
+### We are currently forming our team. You can see a list of open positions below.
 
 See if there's anything you can do to help us.
 
