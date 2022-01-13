@@ -2,42 +2,45 @@
 template: overrides/main.html icon: material/image-size-select-small
 ---
 
-# The Team
+# Produktor Team
 
-Actually the project team is represented by two partners
 
 ![](assets/a_obl.png)
 
-#### Andrew Oblivantsev
+## Andrew Oblivantsev
 
-###### *Currently performing the CTO and Team Lead functions*
+*CTO, Engineer and Team Lead*
 
->Creator and ideological inspirer of the project, has been working on the project for more than 4 years. Developed the whole initial code base.
->
->High level full-stack engineer, with a huge experience in IT sector including blockchain and crypto areas. 
->He has worked with major companies and corporations such as Audi AG, Vodafone GmBH, Telekom Deutschland, Axel Springer SE, Muellergroup, Baumüller and others.
+Founder of the project, has been already working on project technologies for more than four years. Developed the whole initial code base.
+
+High level full-stack engineer, with a huge experience in IT sector including blockchain and crypto areas. 
+
+He has worked with major companies and corporations such as Audi AG, Vodafone GmBH, Telekom Deutschland, Axel Springer SE, Deutsche Bahn, Baumüller and others.
 
 ![](assets/a_krn.png)
 
-#### Alex Krylov
+## Alex Krylov
 
-###### *Currently performing CEO, copywriter and Legal assistant functions*
+*CEO, Copywriter and Legal Assistant*
 
->Joined the project in 2021.
->
->Lawyer with huge experience in Russia and Europe. Worked with big Russian and European companies in different projects. After being a general manager for the newest and biggest confectionary plant in Tenerife, Spain, has been working recently with investments projects in Spain and the Canary Islands.
+Lawyer with huge experience in Russia and Europe. Worked with big Russian and European companies in different projects. After being a general manager for the newest and biggest confectionary plant in Tenerife, Spain, has been working recently with investments projects in Spain and the Canary Islands.
 
 As our strategic partner, the project is also supported by the team of [Tera](https://www.terafoundation.org) - new-generation blockchain, specially by its founder and leader Yuriy Ivanov.
 
-### We are currently forming our team. You can see a list of open positions below.
+>Joined the project in 2021.
+----
 
-See if there's anything you can do to help us.
+## Open positions
 
-> Yes, we're looking for someone like you!
+We are currently forming our team. 
 
-## Team Lead
+See if there's anything you can support **produktor**.
 
-### Functionality
+> **NOTICE**: Yes, we're looking for someone like you!
+
+### Team Lead
+
+#### Functionality
 
 * planning and organizing the team's work
 * motivating the developers
@@ -45,13 +48,11 @@ See if there's anything you can do to help us.
 * adoption and implementation of management decisions
 * back end development
 
-### Expenses
+> Expenses: 80-100k USD per year
 
-* 80-100k USD per year
+### Software Engineer
 
-## Software developer
-
-### Functionality
+#### Functionality
 
 * Frontend development
   * Card processing
@@ -64,7 +65,7 @@ See if there's anything you can do to help us.
 
 ### Expenses
 
-- 50k-100k per year, depending on experience and speed of tasks
+50k-100k per year, depending on experience and speed of tasks
 
 ## Copywriter/Legal assistant
 
@@ -80,28 +81,22 @@ See if there's anything you can do to help us.
 * Initial HR-activity - involvement of necessary specialists, control and coordination of their work, organization of
   necessary measures, control over internal reporting - with further transfer of these functions to Project Manager.
 
-### Expenses
-
-- 60-90k USD per year, depending on the amount of work
+ > Expenses: 60-90k USD per year, depending on the amount of work
 
 ## Key account manager - Project Owner.
 
-### Functionality
+#### Functionality
 
 * Interaction with investors, sponsors, partners, negotiations, signing agreements and contracts.
 * Providing support to Project Manager.
 * Presentation of the project.
 * Preparation and signing of necessary investment agreements - in cooperation with copywriter.
 
-### Expenses
+> Expenses: 60-90k USD per year
 
-- 60-90k USD per year
+### Quality Assurance / Quality Service
 
-## Quality Assurance / Quality Service
-
-> **IMPORTANT**: Three people are originally supposed to be on the team!
-
-### Functionality
+#### Functionality
 
 - testing quality control of the application.
 - identifying and analyzing errors and problems that users encounter while working with the application.
@@ -109,11 +104,10 @@ See if there's anything you can do to help us.
 - development of test scenarios.
 - documenting the defects found.
 
-### Expenses
+> Expenses: 40k USD per year
 
-- 40k USD per year
 
-## Others
+### Others
 
 As the project develops (see the project roadmap), the following additional resources need to be attracted:
 

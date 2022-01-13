@@ -295,7 +295,7 @@ In the extended functionality, which the user is supposed to have access to, int
 
 ### Q1/2022
 
-- launch of MWP based on TERA on the local market.
+- launch of MWP based on [SIA](https://sia.tech/) on the local market.
 - testing.
 - adaptation for the launch of the DCS.
 - development and launch of the advertising campaign.
