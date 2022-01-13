@@ -4,7 +4,6 @@ template: overrides/main.html icon: material/image-size-select-small
 
 # Produktor Team
 
-
 ![](assets/a_obl.png)
 
 ## Andrew Oblivantsev
@@ -28,16 +27,26 @@ Lawyer with huge experience in Russia and Europe. Worked with big Russian and Eu
 As our strategic partner, the project is also supported by the team of [Tera](https://www.terafoundation.org) - new-generation blockchain, specially by its founder and leader Yuriy Ivanov.
 
 > Joined the project in 2021.
-----
 
 ## Open positions
 
 We are currently forming our team. 
 See if there's anything you can support **produktor**.
 
+As the project develops (see the project [roadmap](business-plan#roadmap), the following additional resources need to be attracted:
+
+- Marketing research, organization of marketing and advertising campaign, Q1, Q2 2022
+- Legal support on specific issues such as:
+  - Registration procedures
+  - Licensing
+  - Tax issues of the project's parent company 
+- Financial and tax consulting 
+- Development of CI, design of related materials 
+- Helpdesk, customer service
+
 ### Team Lead
 
-#### Functionality
+Follow skills will be needed:
 
 * planning and organizing the team's work
 * motivating the developers
@@ -49,7 +58,7 @@ See if there's anything you can support **produktor**.
 
 ### Software Engineer
 
-#### Functionality
+Follow skills will be needed:
 
 * Frontend development
   * Card processing
@@ -60,13 +69,11 @@ See if there's anything you can support **produktor**.
 * Application support
 * Third line of user support
 
-### Expenses
+> Expenses: 50k-100k per year, depending on experience and speed of tasks
 
-50k-100k per year, depending on experience and speed of tasks
+### Copywriter/Legal assistant
 
-## Copywriter/Legal assistant
-
-### Functionality
+Follow skills will be needed:
 
 * Formation, preparation and editing of a package of project documentation, including a business plan.
 * control of document flow.
@@ -80,9 +87,9 @@ See if there's anything you can support **produktor**.
 
  > Expenses: 60-90k USD per year, depending on the amount of work
 
-## Key account manager - Project Owner.
+### Key account manager - Project Owner.
 
-#### Functionality
+Follow skills will be needed:
 
 * Interaction with investors, sponsors, partners, negotiations, signing agreements and contracts.
 * Providing support to Project Manager.
@@ -93,7 +100,7 @@ See if there's anything you can support **produktor**.
 
 ### Quality Assurance / Quality Service
 
-#### Functionality
+Follow skills will be needed:
 
 - testing quality control of the application.
 - identifying and analyzing errors and problems that users encounter while working with the application.
@@ -103,14 +110,3 @@ See if there's anything you can support **produktor**.
 
 > Expenses: 40k USD per year
 
-
-### Others
-
-As the project develops (see the project roadmap), the following additional resources need to be attracted:
-
-- marketing research, organization of marketing and advertising campaign, Q1, Q2 2022
-- legal support on specific issues (registration procedures, licensing, tax issues of the project's parent company) -
-  OUTSOURCE
-- financial and tax consulting (as needed) - OUTSOURCE
-- development of CI, design of related materials - OUTSOURCE
-- (helpdesk, customer service)
