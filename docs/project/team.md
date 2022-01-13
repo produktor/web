@@ -27,16 +27,13 @@ Lawyer with huge experience in Russia and Europe. Worked with big Russian and Eu
 
 As our strategic partner, the project is also supported by the team of [Tera](https://www.terafoundation.org) - new-generation blockchain, specially by its founder and leader Yuriy Ivanov.
 
->Joined the project in 2021.
+> Joined the project in 2021.
 ----
 
 ## Open positions
 
 We are currently forming our team. 
-
 See if there's anything you can support **produktor**.
-
-> **NOTICE**: Yes, we're looking for someone like you!
 
 ### Team Lead
 
