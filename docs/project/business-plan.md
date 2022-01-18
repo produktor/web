@@ -252,7 +252,7 @@ Providing users with extended technical support services.
 
 The avg. distribution of future revenues by source of monetization:
 
-![](assets/diagrams/Total%20costs.svg)
+![](assets/diagrams/Total%20incomes.svg)
 
 Normal registration in the application (for all categories of users during the beta-testing period, for free accounts - after the full launch of the application) will give the user access to basic functionality, which includes the following features:
 
