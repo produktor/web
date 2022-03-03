@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-#A short introduction
+# A short introduction
 
 The recession in which the modern world finds itself is globally recognized as the most severe in the last 90 years. The stratification of society, the deep economic crisis and the crisis of the functioning of markets, the growing interference of states and interstate associations in the daily life of individuals - these are not all the negative effects of the rapid technological, informational development, as well as the existing pandemic that we can observe.
 
