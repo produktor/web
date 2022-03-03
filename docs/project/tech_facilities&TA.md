@@ -49,7 +49,7 @@ Minimally simple, intuitive user interface using:
 
 See more in [Vision](vision.md) section 
 
-**For more details, see also [F.A.Q.](faq.md) section**
+**Also for more details, visit our [F.A.Q.](faq.md) section**
 
 ### Services analyzing
 
