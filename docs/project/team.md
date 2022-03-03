@@ -1,5 +1,6 @@
 ---
-template: overrides/main.html icon: material/image-size-select-small
+template: overrides/main.html 
+icon: material/image-size-select-small
 ---
 
 # Produktor Team
