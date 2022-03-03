@@ -51,4 +51,4 @@ In recent years, the number of Internet users, somehow connected with cryptocurr
 
 ![](assets/crypto_users_growth_chart.png)
 
-From there we defined [main objectives](mission.md)
+From there we have defined our [main objectives](mission.md)
