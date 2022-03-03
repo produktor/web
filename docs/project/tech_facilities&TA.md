@@ -4,7 +4,7 @@ template: overrides/main.html
 
 ## Technical facilities
 
-These tasks will be solved in [Produktor.io]() by the following:
+The tasks arising from the main objectives will be solved in [Produktor.io]() by the following:
 
 #### Exchange calendar
 
@@ -46,6 +46,8 @@ Minimally simple, intuitive user interface using:
 - **calendar** - to determine when a product/service is available for purchase by users.
 - a convenient system for specifying essential information about a product/service or essential terms of sale.
 - **wish list** is a system that allows users to leave requests or requests for future availability of certain goods/services in areas specified by users. This system will allow sellers of goods/services to always respond to current market demands, as well as constantly improve the accuracy, completeness and reliability of statistical information about markets for market research and business analysis purposes.
+
+See more in [Vision](vision.md) section 
 
 **For more details, see also [F.A.Q.](faq.md) section**
 
