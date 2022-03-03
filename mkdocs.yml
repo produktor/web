@@ -150,6 +150,7 @@ markdown_extensions:
 
 # Page tree
 nav:
+  - !!!IMPORTANT NOTICE!!!: project/notice.md
   - Home: index.md
   - Project Data:
     - Abbreviations: project/abbreviations.md
