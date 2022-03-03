@@ -26,4 +26,4 @@ We accept contributions to the project, starting from 100 (ONE HUNDRED) euros. W
 
 **For contributions in ETH:**
 
-For all who wish to support the project with a bigger amount, starting from 5.000 (FIVE THOUSAND) Euro, we guarantee in case of launching the project the return on investment scheme outlined in the original financial plan (see **Investment Model and Initial Tokenomics Calculations** setion of [financial plan](business_plan.md)
+For all who wish to support the project with a bigger amount, starting from 5.000 (FIVE THOUSAND) Euro, we guarantee in case of launching the project the return on investment as indicated in the original financial plan (see **Investment Model and Initial Tokenomics Calculations** section of [financial plan](business_plan.md))
