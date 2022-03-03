@@ -151,14 +151,19 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Project:
+  - Project Data:
+    - Abbreviations: project/abbreviations.md
     - About: project/description.md
+    - Current Situation Analysis: project/current_situation.md
+    - Product Idea: project/product_idea.md
     - Objectives: project/mission.md
+    - Technical Facilities & Target Auditory: project/tech_facilities&TA.md
     - Vision: project/vision.md
+    - Road Map: project/road_map.md
     - Plan: project/business-plan.md
+    - Team: project/team.md
     - Demo: project/demo.md
     - Advertising: project/advertising.md
     - F.A.Q.: project/faq.md
-  - Team: project/team.md
   - News: project/changelog.md
   - Contact: project/contact.md
