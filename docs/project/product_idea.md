@@ -49,4 +49,4 @@ In the existing system, based on centralized regulation and control, there is a 
 
 In recent years, the number of Internet users, somehow connected with cryptocurrencies, is constantly growing. At the same time, user activity is limited to investment and trading activities, as full-fledged integration of crypto-assets into the existing markets is currently impossible, primarily due to the uncertainty of regulation of this industry at the interstate and state levels. A huge amount of crypto-assets are held by users in their wallets, without taking any  participation in the commodity turnover.
 
-
+![](assets/crypto_users_growth_chart.png)
