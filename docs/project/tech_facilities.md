@@ -2,15 +2,15 @@
 template: overrides/main.html
 ---
 
-## Technical facilities
+# Technical facilities
 
 The tasks arising from the main objectives will be solved in [Produktor.io]() by the following:
 
-#### Exchange calendar
+## Exchange calendar
 
 The ability to temporarily plan the provision of goods/services by the user (downloading the information and the schedule of work/providing goods or services)
 
-#### Exchange map
+## Exchange map
 
 Possibility of geolocation of goods/services delivery zone with indication of exact location or zone borders.
 
@@ -20,11 +20,11 @@ Additional features are:
 * Local product searching
 * Interactive map with editing abilities
 
-#### Use of decentralized cryptocurrencies
+## Use of decentralized cryptocurrencies
 
 Providing user with the possibility of quick and guaranteed crypto-assets exchange when performing transactions in the application, or direct use of crypto-assets as a local means of payment.
 
-#### Object recognition system
+## Object recognition system
 
 The application will enable automatic detection and identification of goods/products from the image captured by a smartphone video camera, as well as recognition of significant properties and characteristics of the product using AI, such as:
 
@@ -33,12 +33,12 @@ The application will enable automatic detection and identification of goods/prod
 - Product images, video or other media
 - Average price (zone-based analysis of online prices)
 
-#### Efficient data saving
+## Efficient data saving
 
 * Decentralized data distribution
 * Efficient data storage based on IPFS/SkyDB
 
-#### User-friendly user interface
+## User-friendly user interface
 
 Minimally simple, intuitive user interface using:
 
