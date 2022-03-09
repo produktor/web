@@ -153,11 +153,11 @@ nav:
   - Home: index.md
 #  - READ FIRST!!!: project/notice.md
   - Project:
+    - About: project/description.md
     - Situation: project/current_situation.md
     - Vision: project/vision.md
     - Idea: project/product_idea.md
     - Objectives: project/mission.md
-    - About: project/description.md
     - Technicals: project/tech_facilities.md
     - Plan: project/business-plan.md
     - Road Map: project/road_map.md
