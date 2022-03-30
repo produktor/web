@@ -1,6 +1,6 @@
-# Frequently Asked Questions
+# FAQ
 
-# What is the differences between the [Produktor.io]()  and existing similar platforms, such as Amazon or eBay?
+## What is the differences between the [Produktor.io]()  and existing similar platforms, such as Amazon or eBay?
 
 * [Produktor.io]() is a fully and truly decentralized application for peer-to-peer exchange of services/goods directly between users.
 * Thanks to the use of innovative solutions in [sia](https://sia.tech/) blockchain the whole  data is decentralized, encrypted and immutable. 
