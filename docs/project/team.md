@@ -19,16 +19,6 @@ He has worked with major companies and corporations such as Audi AG, Vodafone Gm
 
 ![](assets/a_krn.png)
 
-## Alex Krylov
-
-*CEO, Copywriter and Legal Assistant*
-
-Lawyer with huge experience in Russia and Europe. Worked with big Russian and European companies in different projects. After being a general manager for the newest and biggest confectionary plant in Tenerife, Spain, has been working recently with investments projects in Spain and the Canary Islands.
-
-As our strategic partner, the project is also supported by the team of [Tera](https://www.terafoundation.org) - new-generation blockchain, specially by its founder and leader Yuriy Ivanov.
-
-> Joined the project in 2021.
-
 ## Open positions
 
 We are currently forming our team. 
