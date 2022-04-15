@@ -17,8 +17,6 @@ High level full-stack engineer, with a huge experience in IT sector including bl
 
 He has worked with major companies and corporations such as Audi AG, Vodafone GmBH, Telekom Deutschland, Axel Springer SE, Deutsche Bahn, Baumüller and others.
 
-![](assets/a_krn.png)
-
 ## Open positions
 
 We are currently forming our team. 
