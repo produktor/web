@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
-    "@mdi/svg": "^7.0.96",
+    "@mdi/svg": "^7.2.96",
     "@primer/octicons": "^16.2.0",
     "@types/clipboard": "^2.0.7",
     "@types/escape-html": "1.0.2",
